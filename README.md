@@ -7,7 +7,11 @@ Recently, I encountered an issue with a Docker container running DVWA (Damn Vuln
 Realizing that newcomers to the field of penetration testing might encounter similar difficulties, I decided to create a bash script to automate the process. By running the provided script while using DVWA in a Docker container, the necessary modifications will be performed automatically. My intention is to save your valuable time and simplify the process.
 
 # Usage:
+
 git clone https://github.com/0x01sudipta/dvwa-configure-php.git
+
 cd dvwa-configure-php
+
 chmod +x dvwa-configure-php.ini
+
 ./dvwa-configure-php.ini
