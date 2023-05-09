@@ -8,10 +8,12 @@ Realizing that newcomers to the field of penetration testing might encounter sim
 
 # Usage:
 
+Make sure DVWA is running into a docker conatiner and follow the commands given below-
+
 git clone https://github.com/0x01sudipta/dvwa-configure-php.git
 
 cd dvwa-configure-php
 
-chmod +x dvwa-configure-php.ini
+chmod +x dvwa-php-config-modify.sh 
 
-./dvwa-configure-php.ini
+./dvwa-php-config-modify.sh 
