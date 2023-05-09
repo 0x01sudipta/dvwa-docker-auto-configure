@@ -12,5 +12,5 @@ sudo sed -i 's/^\(allow_url_fopen = \).*/\1On/; s/^\(allow_url_include = \).*/\1
 # Copy back to the original source
 sudo docker cp /tmp/php.ini $container_id:/etc/php/7.0/apache2/php.ini
 
-# Restart Apache2 for the changes to take effect
+# Restart Apache2 for the changes to take effects
 sudo docker exec $container_id /etc/init.d/apache2 reload
