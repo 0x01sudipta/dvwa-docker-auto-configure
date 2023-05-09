@@ -1,3 +1,8 @@
+# The error message:
+
+![dvwa_error](https://github.com/0x01sudipta/dvwa-configure-php/assets/78684283/97d8271e-7166-44fa-b38e-4d6cc0754f69)
+
+
 # dvwa-configure-php
 
 This script enables you auto configure your php.ini file of DVWA running within a docker container.
