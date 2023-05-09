@@ -1,4 +1,4 @@
-# dvwa-configure-php
+# DVWA-configure-php
 
 This script enables you auto configure your php.ini file of DVWA running within a docker container.
 
