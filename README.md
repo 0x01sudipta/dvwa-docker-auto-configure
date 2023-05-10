@@ -9,7 +9,9 @@ Realizing that newcomers to the field of penetration testing might encounter sim
 # When to use:
 
 To edit /etc/php/7.0/apache2/php.ini or /var/www/html/config/php.ini and make necessery changes.
+
 and
+
 To edit /var/www/html/config/config.inc.php and set private and public key to generate recapcha.
 
 
