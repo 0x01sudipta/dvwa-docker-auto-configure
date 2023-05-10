@@ -8,7 +8,7 @@ Realizing that newcomers to the field of penetration testing might encounter sim
 
 # When to use:
 
-To edit /etc/php/7.0/apache2/php.ini or /var/www/html/config/php.ini and make necessery changes.
+To edit /etc/php/7.0/apache2/php.ini or /var/www/html/config/php.ini and make necessery changes (allow_url_fopen = On and allow_url_include = On).
 
 and
 
