@@ -17,3 +17,7 @@ cd dvwa-configure-php
 chmod +x dvwa-php-config-modify.sh 
 
 ./dvwa-php-config-modify.sh 
+
+chmod +x recapcha.sh
+
+./recapcha.sh
